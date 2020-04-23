@@ -11,7 +11,7 @@ library(LittleApp2)
 library(shiny)
 app_url <- function(name) {
   paste0(
-    "https://dtkaplan.shinyapps.io/Little_App_", 
+    "https://maa-statprep.shinyapps.io/Little_App_", 
     name)
 }
 ```
@@ -35,7 +35,7 @@ Others are oriented to contemporary approaches to teaching statistics.
 Still others implement topics can help instructors adopt to recent calls for change such as the GAISE recommendations about multivariate thinking and the American Statistical Association's posture on p-values.
 
 5. [Stratification and Confounding](`r app_url("Stratify")`)
-6. [Regression Modeling](`r app_url("F")`)
+6. [Regression Modeling](`r app_url("Regression")`)
 
 Each Little App is oriented around a graphical display of data with statistical annotations. Users can select the size of sample to draw at random from a "population" of the entire dataset. *Every* App shows each point in the sample.
 

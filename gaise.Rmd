@@ -2,9 +2,6 @@
 title: "Little Apps and GAISE"
 ---
 
-
-
-
 ## DRAFT
 
 The 2016 [GAISE report](https://www.amstat.org/asa/files/pdfs/GAISE/GaiseCollege_Full.pdf) provides guidelines for teaching introductory statistics that many instructors have found useful in updating their own courses.
