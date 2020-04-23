@@ -1,5 +1,5 @@
 ---
-Activities with Little Apps
+title: "Activities with Little Apps"
 ---
 
 The [StatPREP.org](https://statprep.org) site has many resources for teaching statistics, including activities [specifically designed around the Little Apps](https://ecstatic-mclean-a0b3e0.netlify.app/categories/little-app/)
