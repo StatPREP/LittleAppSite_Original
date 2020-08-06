@@ -2,9 +2,15 @@
 title: "Activities with Little Apps"
 ---
 
-The [StatPREP.org](https://statprep.org) site has many resources for teaching statistics, including activities [specifically designed around the Little Apps](https://ecstatic-mclean-a0b3e0.netlify.app/categories/little-app/)
+<!--The [StatPREP.org](https://statprep.org) site has many resources for teaching statistics, including activities [specifically designed around the Little Apps](https://ecstatic-mclean-a0b3e0.netlify.app/categories/little-app/) -->
 
-Those activites were written for the original generation of Little Apps. As time permits, we will be updating them for the new generation.
+StatPREP instructors have written in-class activities keyed to the Little Apps on a variety of statistical topics. Explore them here:
+
+- [Densities: common and rare](Activities/activity-common-and-rare.html)
+- [Comparing confidence intervals](Activities/activity-comparing-confidence-intervals.html)
+- [Shapes of distributions](Activities/activity-distribution-shapes.html)
+
+
 
 We encourage instructors to send us a copy of activities that they write. Sharing such valuable resources helps make us all better teachers. We'll post any such contributions *via* this page.
 
